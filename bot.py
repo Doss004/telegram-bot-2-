@@ -15,7 +15,7 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0"
 }
 
-bot = Bot(8787982429:AAGpfzIibK7e58YtvAl6g5m1EG2sZtEdFYA)
+bot = Bot("8787982429:AAGpfzIibK7e58YtvAl6g5m1EG2sZtEdFYA")
 
 previous_status = {}
 previous_vacancy_count = 0
