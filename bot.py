@@ -9,7 +9,7 @@ CHAT_ID = 6318865778
 
 BASE_URL = "https://agropraktika.eu/vacancies"
 CHECK_INTERVAL = 75
-PAGES = 2
+PAGES = 3
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0"
